@@ -2,6 +2,9 @@
 
 Netflix Clone Website using HTML, CSS, and JavaScript.
 
+## Live Link
+https://aakashx58.github.io/netflix_clone/
+
 ## Technologies Used to Build Netflix Clone
 
 To build this project we are going to use some technologies. Here is an overview description of the technologies.
